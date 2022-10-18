@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>indi.kiki</groupId>
+    <artifactId>cypheemall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>cypheemall</name>
+    <description>cypheemall-conjection</description>
+    <packaging>pom</packaging>
+    <modules>
+        <module>cypheemall-coupon</module>
+        <module>cypheemall-member</module>
+        <module>cypheemall-order</module>
+        <module>cypheemall-product</module>
+        <module>cypheemall-ware</module>
+    </modules>
+
+</project>
